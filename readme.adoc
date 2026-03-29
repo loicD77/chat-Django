@@ -78,7 +78,4 @@ image::djangochat\assets\loiv 2 message officiel.png[width=800, title="2 message
 image::djangochat\assets\bdd représentation final.png[width=800, title="BDD complet ", alt=""]
 ====
 
-====
-image::djangochat\assets\chat room bdd .png[width=800, title="Enregistrement des messages dans la bdd", alt=""]
-====
 
